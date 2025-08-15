@@ -1,0 +1,23 @@
+{
+  "name": "projmanagement",
+  "version": "1.0.0",
+  "description": "backend project",
+  "keywords": [
+    "backend",
+    "project",
+    "management",
+    "platform"
+  ],
+  "license": "ISC",
+  "author": "Sarthak Gajera",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "3.6.2"
+  }
+}
